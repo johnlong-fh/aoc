@@ -1,4 +1,4 @@
-import { readFile } from './utils';
+import { readFile } from '../utils';
 
 export const similarity = async () => {
   const filePath = 'day-one-input.txt';
