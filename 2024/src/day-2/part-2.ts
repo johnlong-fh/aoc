@@ -1,6 +1,6 @@
 import { isSafe, readFile } from '../utils';
 
-export const sequenceSafeDampened = async () => {
+export const partTwo = async () => {
   const filePath = 'day-two-input.txt';
 
   const lines = (await readFile(filePath)).map((line) =>

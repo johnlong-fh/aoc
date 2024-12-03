@@ -1,5 +1,5 @@
-import { similarity, totalDistance } from './day-one';
-import { sequenceSafe, sequenceSafeDampened } from './day-two';
+import { partOne as dayOnePartOne, partTwo as dayOnePartTwo } from './day-1';
+import { partOne as dayTwoPartOne, partTwo as dayTwoPartTwo } from './day-2';
 
 const args = process.argv.slice(2);
 
@@ -12,16 +12,16 @@ const functionName = args[0];
 
 switch (functionName) {
   case 'day-one-pt-1':
-    totalDistance().then((result) => console.log(result));
+    dayOnePartOne().then((result) => console.log(result));
     break;
   case 'day-one-pt-2':
-    similarity().then((result) => console.log(result));
+    dayOnePartTwo().then((result) => console.log(result));
     break;
   case 'day-two-pt-1':
-    sequenceSafe().then((result) => console.log(result));
+    dayTwoPartOne().then((result) => console.log(result));
     break;
   case 'day-two-pt-2':
-    sequenceSafeDampened().then((result) => console.log(result));
+    dayTwoPartTwo().then((result) => console.log(result));
     break;
   default:
     console.error(`Unknown function: ${functionName}`);

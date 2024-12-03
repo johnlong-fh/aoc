@@ -1,6 +1,6 @@
 import { readFile } from '../utils';
 
-export const totalDistance = async () => {
+export const partOne = async () => {
   const filePath = 'day-one-input.txt';
 
   const firstColumn: number[] = [];
