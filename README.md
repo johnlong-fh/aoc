@@ -15,6 +15,7 @@ Advent of Code is a series of daily programming puzzles released from December 1
 <details open>
 
 <summary>Progress</summary>
+
 | Day | Completion Status | Link                                    |
 | --- | ----------------- | --------------------------------------- |
 | 1   | ⭐️ ⭐️           | [Historian Hysteria](./2024/src/day-1/) |
