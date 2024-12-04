@@ -12,6 +12,9 @@ Advent of Code is a series of daily programming puzzles released from December 1
 
 ### 2024
 
+<details open>
+
+<summary>Progress</summary>
 | Day | Completion Status | Link                                    |
 | --- | ----------------- | --------------------------------------- |
 | 1   | ⭐️ ⭐️           | [Historian Hysteria](./2024/src/day-1/) |
@@ -39,6 +42,8 @@ Advent of Code is a series of daily programming puzzles released from December 1
 | 23  | ✩ ✩               | [Unknown](./2024/src/day-23/)           |
 | 24  | ✩ ✩               | [Unknown](./2024/src/day-24/)           |
 | 25  | ✩ ✩               | [Unknown](./2024/src/day-25/)           |
+
+</details>
 
 ---
 
