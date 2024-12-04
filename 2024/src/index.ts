@@ -1,5 +1,9 @@
 import { partOne as dayOnePartOne, partTwo as dayOnePartTwo } from './day-1';
 import { partOne as dayTwoPartOne, partTwo as dayTwoPartTwo } from './day-2';
+import {
+  partOne as dayThreePartOne,
+  partTwo as dayThreePartTwo,
+} from './day-3';
 
 const args = process.argv.slice(2);
 
@@ -22,6 +26,12 @@ switch (functionName) {
     break;
   case 'day-two-pt-2':
     dayTwoPartTwo().then((result) => console.log(result));
+    break;
+  case 'day-three-pt-1':
+    dayThreePartOne().then((result) => console.log(result));
+    break;
+  case 'day-three-pt-2':
+    dayThreePartTwo().then((result) => console.log(result));
     break;
   default:
     console.error(`Unknown function: ${functionName}`);
