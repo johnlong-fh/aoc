@@ -22,8 +22,8 @@ Advent of Code is a series of daily programming puzzles released from December 1
 | 2   | ⭐️ ⭐️           | [Red-Nosed Reports](./2024/src/day-2/)  |
 | 3   | ⭐️ ⭐️           | [Mull It Over](./2024/src/day-3/)       |
 | 4   | ⭐️ ⭐️           | [Ceres Search](./2024/src/day-4/)       |
-| 5   | ✩ ✩               | [Unknown](./2024/src/day-5/)            |
-| 6   | ✩ ✩               | [Unknown](./2024/src/day-6/)            |
+| 5   | ⭐️ ⭐️           | [Print Queue](./2024/src/day-5/)        |
+| 6   | ⭐️ ⭐️           | [Guard Gallivant](./2024/src/day-6/)    |
 | 7   | ✩ ✩               | [Unknown](./2024/src/day-7/)            |
 | 8   | ✩ ✩               | [Unknown](./2024/src/day-8/)            |
 | 9   | ✩ ✩               | [Unknown](./2024/src/day-9/)            |
