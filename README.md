@@ -26,7 +26,7 @@ Advent of Code is a series of daily programming puzzles released from December 1
 | 6   | ⭐️ ⭐️           | [Guard Gallivant](./2024/src/day-6/)       |
 | 7   | ⭐️ ⭐️           | [Bridge Repair](./2024/src/day-7/)         |
 | 8   | ⭐️ ⭐️           | [Resonant Collinearity](./2024/src/day-8/) |
-| 9   | ✩ ✩               | [Unknown](./2024/src/day-9/)               |
+| 9   | ⭐️ ⭐️           | [Disk Fragmenter](./2024/src/day-9/)       |
 | 10  | ✩ ✩               | [Unknown](./2024/src/day-10/)              |
 | 11  | ✩ ✩               | [Unknown](./2024/src/day-11/)              |
 | 12  | ✩ ✩               | [Unknown](./2024/src/day-12/)              |
